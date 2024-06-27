@@ -9,13 +9,14 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-20">
-            Determined to excel in data science and software development, I've honed my skills through hands-on projects like a gym website and this portfolio. Proficient in HTML, CSS, and JavaScript, I've delved into languages like C, C++, Java (Swing and AWT), and Python (NumPy, Pandas, and Tkinter). Currently, I'm sharpening my expertise in ReactJS for front-end development and MySQL for database management, while also exploring data analysis and the nuances of the stock market during my free time.
+            Aspiring BE student specializing in Artificial Intelligence and Data Science, determined to excel in Data Analysis, I have honed my skills through hands-on projects and coursework. Proficient in Python (NumPy, Pandas, and Matplotlib), Power BI and MySQL, I have a strong foundation in extracting insights from data and presenting them effectively.
             </p>
 
            {/* <br/> */}
 
             <p className="text-xl mt-4">
-            Moreover, beyond academic pursuits, I've also applied my expertise in tools like Power BI and actively engage in share market ventures during my leisure hours. This multifaceted approach reflects my commitment to problem-solving and innovation, embodying a holistic understanding of data-driven technologies and their real-world applications.
+            I have experience building web applications using HTML, Tailwind CSS, and ReactJS, and have worked with programming languages such as C, C++, and Java (DSA). Currently, I am enhancing my expertise in Data Analysis techniques and tools.
+            In my free time, I explore data analysis applications in various domains, including the stock market, to better understand real-world data challenges. My goal is to leverage my analytical skills and technical knowledge to contribute to impactful decision-making as a Data Analyst.
             </p>
 
         </div>
