@@ -1,6 +1,6 @@
 import React from 'react'
 // import heroImage3 from "../assets/hImage4.jpg";
-import heroImage3 from "../assets/portfoliophoto.jpg";
+import heroImage3 from "../assets/portfoliophoto1.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
