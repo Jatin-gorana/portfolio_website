@@ -1,12 +1,12 @@
 import React from 'react'
-import html from "../assets/html.png";
-import css from "../assets/css.png";
+import powerbi from "../assets/powerbi.webp";
+import excel from "../assets/excel.png";
 // import js from "../assets/javascript.png";
-import reactt from "../assets/react.png";
-import c from "../assets/c.png";
+// import reactt from "../assets/react.png";
+import tableau from "../assets/tableau.png";
 // import cpp from "../assets/cpp.png";
 // import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+// import tailwind from "../assets/tailwind.png";
 import pythonn from "../assets/python.webp";
 import java from "../assets/java.png";
 import mysqll from "../assets/mysql.png";
@@ -17,32 +17,32 @@ const Experience = () => {
     const exp = [
         {
             id: 1,
-            src: html,
-            title: 'HTML',
+            src: pythonn,
+            title: 'Python',
             style: 'shadow-orange-500',
         },
         {
             id: 2,
-            src: css,
-            title: 'CSS',
+            src: mysqll,
+            title: 'MySQL',
             style: 'shadow-blue-500',
         },
         {
             id: 3,
-            src: reactt,
-            title: 'React',
+            src: excel,
+            title: 'Excel',
             style: 'shadow-blue-600',
         },
         {
             id: 4,
-            src: tailwind,
-            title: 'Tailwind',
+            src: powerbi,
+            title: 'PowerBI',
             style: 'shadow-sky-400',
         },
         {
             id: 5,
-            src: c,
-            title: 'C',
+            src: tableau,
+            title: 'Tableau',
             style: 'shadow-blue-700',
         },
         {
@@ -54,13 +54,13 @@ const Experience = () => {
         {
             id: 7,
             src: pythonn,
-            title: 'Python',
+            title: 'ReactJS',
             style: 'shadow-yellow-400',
          },
         {
             id: 8,
             src: mysqll,
-            title: 'MySQL',
+            title: 'Tailwind CSS',
             style: 'shadow-orange-500',
         },
         // {

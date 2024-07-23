@@ -1,10 +1,11 @@
 import React from 'react'
-import arrayDestruct from "../assets/portfolio/mobana.png";
-import installNode from "../assets/portfolio/todolist.webp";
-import navbar from "../assets/portfolio/xogame.jpg";
+import arrayDestruct from "../assets/portfolio/tableauss.png";
+import installNode from "../assets/portfolio/Analysisss.png";
+import navbar from "../assets/portfolio/dashboard.png";
 import reactParallax from "../assets/portfolio/smtp.png";
 import reactSmooth from "../assets/portfolio/webscrapping.png";
-import reactWeather from "../assets/portfolio/texttospeech.png";
+// import reactWeather from "../assets/portfolio/texttospeech.png";
+import reactWeather from "../assets/portfolio/Dashboardss.png";
 
 
 const Portfolio = () => {
@@ -13,26 +14,26 @@ const Portfolio = () => {
         {
             id: 1,
             src: arrayDestruct,
-            name: "Mobile Analysis",
-            href: "https://github.com/Jatin-gorana/Mobile_analysis_using_mysqlandpowerbi/tree/main",
+            name: "Road Accident Analysis",
+            href: "https://github.com/Jatin-gorana/road-accident-analysis",
         },
         {
             id: 2,
-            src: installNode,
-            name: "Todo List",
-            href: "https://github.com/Jatin-gorana/todo_list/tree/main",
+            src: navbar,
+            name: "Hotel Cancellation Insights",
+            href: "https://github.com/Jatin-gorana/hotel-booking-cancellation-analysis",
         },
         {
             id: 3,
-            src: navbar,
-            name: "X-O game",
-            href: "https://github.com/Jatin-gorana/Python_projects/blob/main/XO_GAME.ipynb",
+            src: reactWeather,
+            name: "Mobile Market Study",
+            href: "https://github.com/Jatin-gorana/Mobile_analysis_using_mysqlandpowerbi/tree/main",
         },
         {
             id: 4,
-            src: reactParallax,
-            name: "SMTP Library",
-            href: "https://github.com/Jatin-gorana/Pandas_Udemy/blob/main/E-mail%20Project.py",
+            src: installNode,
+            name: "Customer Review Analysis",
+            href: "https://github.com/Jatin-gorana/customer-review-analysis-BritishAirways",
         },
         {
             id: 5,
@@ -42,9 +43,9 @@ const Portfolio = () => {
         },
         {
             id: 6,
-            src: reactWeather,
-            name: "Text to Speech",
-            href: "https://github.com/Jatin-gorana/Python_projects/blob/main/main.py",
+            src: reactParallax,
+            name: "SMTP Library",
+            href: "https://github.com/Jatin-gorana/Pandas_Udemy/blob/main/E-mail%20Project.py",
         },
     ]
 
