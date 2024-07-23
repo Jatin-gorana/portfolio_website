@@ -2,11 +2,11 @@ import React from 'react'
 import powerbi from "../assets/powerbi.webp";
 import excel from "../assets/excel.png";
 // import js from "../assets/javascript.png";
-// import reactt from "../assets/react.png";
+import reactt from "../assets/react.png";
 import tableau from "../assets/tableau.png";
 // import cpp from "../assets/cpp.png";
 // import github from "../assets/github.png";
-// import tailwind from "../assets/tailwind.png";
+import tailwind from "../assets/tailwind.png";
 import pythonn from "../assets/python.webp";
 import java from "../assets/java.png";
 import mysqll from "../assets/mysql.png";
@@ -19,25 +19,25 @@ const Experience = () => {
             id: 1,
             src: pythonn,
             title: 'Python',
-            style: 'shadow-orange-500',
+            style: 'shadow-yellow-400',
         },
         {
             id: 2,
             src: mysqll,
             title: 'MySQL',
-            style: 'shadow-blue-500',
+            style: 'shadow-orange-500',
         },
         {
             id: 3,
             src: excel,
             title: 'Excel',
-            style: 'shadow-blue-600',
+            style: 'shadow-green-600',
         },
         {
             id: 4,
             src: powerbi,
             title: 'PowerBI',
-            style: 'shadow-sky-400',
+            style: 'shadow-yellow-600',
         },
         {
             id: 5,
@@ -53,15 +53,15 @@ const Experience = () => {
         },
         {
             id: 7,
-            src: pythonn,
+            src: reactt,
             title: 'ReactJS',
-            style: 'shadow-yellow-400',
+            style: 'shadow-sky-400',
          },
         {
             id: 8,
-            src: mysqll,
+            src: tailwind,
             title: 'Tailwind CSS',
-            style: 'shadow-orange-500',
+            style: 'shadow-sky-500',
         },
         // {
         //     id: 9,
